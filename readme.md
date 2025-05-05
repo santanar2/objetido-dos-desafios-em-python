@@ -1,5 +1,3 @@
-Claro! Aqui está uma versão melhorada do seu `README.md`, com uma estrutura mais clara, correções gramaticais e um estilo mais profissional, mantendo o tom acessível e educativo:
-
 ---
 
 # Resolvendo Códigos em Python com GitHub Copilot (ou ChatGPT!)
